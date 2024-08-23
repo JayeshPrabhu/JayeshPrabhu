@@ -56,4 +56,3 @@
 
 ---
 
-**Note:** The profile image link is a placeholder. You can replace it with your actual profile picture link.

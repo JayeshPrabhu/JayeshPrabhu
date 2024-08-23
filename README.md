@@ -1,6 +1,6 @@
 # Jayesh V Prabhu
 
-![Profile Image](https://via.placeholder.com/150)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-prabhu-b517b3228/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:jayeshvasantprabhu@gmail.com)

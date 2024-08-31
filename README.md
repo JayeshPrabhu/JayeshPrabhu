@@ -10,7 +10,7 @@
 **Technical Skills:**
 - **Languages:** C, C++, Python, Java, JavaScript
 - **Frontend:** ReactJS, HTML, CSS, Angular.js, Figma
-- **Backend:** Node.js, Express.js, MySQL
+- **Backend:** Node.js, Express.js, MySQL,PHP
 - **Frameworks & Libraries:** Next.js, Stripe, MERN Stack
 
 **Soft Skills:**

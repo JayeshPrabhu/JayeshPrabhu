@@ -1,58 +1,18 @@
-# Jayesh V Prabhu
+# 💫 About Me:
+I was born and raised with a passion for learning and technology. My academic journey started at Holy Rosary Convent School, where I completed my S.S.L.C with a solid foundation, scoring 79.28%. I then moved on to Siddhartha P.U College, where I sharpened my skills and achieved an impressive 89.66% in my P.U.C.<br><br>Currently, I'm pursuing my Bachelor of Engineering in Information Science and Engineering at Canara Engineering College, under Visvesvaraya Technological University. My hard work and dedication have helped me maintain a CGPA of 8.45, and I expect to graduate in 2025.<br><br>Beyond academics, I’ve always been inclined towards leadership roles. Serving as a class representative since 2021 has allowed me to develop my leadership and communication skills. I also took up the role of event coordinator for **CodeQuest** during Aakriti, a state-level techno-cultural fest at my college, where I gained valuable experience in event management and teamwork.<br><br>I believe in constant learning, which is why I’ve earned certifications in programming and web development. These experiences have strengthened my ability to adapt, solve problems, and work effectively in a team. As I continue this journey, I am eager to explore new opportunities and collaborate with others to create something meaningful and impactful.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayesh_prabhu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayesh-prabhu-b517b3228/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JayeshPrabhu11) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-prabhu-b517b3228/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:jayeshvasantprabhu@gmail.com)
-
-## 🛠 Skills & Technologies
-
-**Technical Skills:**
-- **Languages:** C, C++, Python, Java, JavaScript
-- **Frontend:** ReactJS, HTML, CSS, Angular.js, Figma
-- **Backend:** Node.js, Express.js, MySQL,PHP
-- **Frameworks & Libraries:** Next.js, Stripe, MERN Stack
-
-**Soft Skills:**
-- 🗣️ Communication
-- 🧩 Problem-Solving
-- 🤝 Teamwork
-- 🏆 Leadership
-- 🌟 Adaptability
-- ⏰ Time Management
-
-## 🎓 Education
-
-- **🎓 B.E in Information Science and Engineering**  
-  *Visvesvaraya Technological University, Canara Engineering College, Mangalore*  
-  *Expected 2025*  
-  **CGPA:** 8.45
-
-- **📘 P.U.C**  
-  *Siddhartha P.U College, Bhatkal*  
-  *2019 - 2021*  
-  **Percentage:** 89.66%
-
-- **📗 S.S.L.C**  
-  *Holy Rosary Convent School, Honavar*  
-  *2018 - 2019*  
-  **Percentage:** 79.28%
-
-## 📜 Certifications
-
-- [HTML, CSS, and Javascript for Web Developers](https://coursera.org/verify/E62E3QNJXJEK) by Johns Hopkins University
-- [C for Everyone: Programming Fundamentals](https://coursera.org/verify/UZ6L7J5BR63G) by University of California, Santa Cruz
-- [Code Yourself! An Introduction to Programming](https://coursera.org/verify/CS9XDUWR4Y3F) by The University of Edinburgh
-- [Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/4gWTLhWhSQmOmm3H2BBNew) by Postman
-
-## 🏆 Leadership
-
-- **Class Representative**, Canara Engineering College (2021 – Present)
-- **Event Coordinator**, CodeQuest at Aakriti (State-level techno-cultural fest at CEC)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JayeshPrabhu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JayeshPrabhu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshPrabhu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=JayeshPrabhu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🤝 Feel free to connect with me for any collaborative projects or professional opportunities. Let's create something amazing together!
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
